@@ -2,7 +2,7 @@
 
 This repo contains the code used to generate the results for the publication 'A divide-and-conquer algorithm for quantum state preparation'.
 
-arXiv link:
+arXiv link: https://arxiv.org/abs/2008.01511
 
 
 If you happen to use this code please cite our paper:
@@ -13,7 +13,8 @@ bibTex:
 ```
 @article{araujo2020dcsp,
   title={A divide-and-conquer algorithm for quantum state preparation},
-  author={Araujo, Israel and Park, Daniel and Petruccione, Francesco and da Silva, Adenilton J.},
-  year={2020},
+  author={Araujo, Israel F and Park, Daniel K and Petruccione, Francesco and da Silva, Adenilton J},
+  journal={arXiv preprint arXiv:2008.01511},
+  year={2020}
 }
 ```
