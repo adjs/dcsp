@@ -143,7 +143,7 @@ class Encoding:
                 qcircuit.cswap(my_tree[actual], my_tree[left_index], my_tree[right_index])
 
                 left_index = my_tree.left(left_index)
-                right_index = my_tree.left(right_index)
+                right_index = my_tree.right(right_index)
             actual -= 1
             if level != my_tree.parent(actual):
                 level -= 1
